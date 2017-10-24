@@ -1,4 +1,4 @@
 # Btree
 Implementação da arvore B (EDA)
 ## creditos:
-- Professor livio
+- Professor Livio Antonio de Melo Freire
